@@ -16,8 +16,8 @@ Our problem in breast cancer is to be able to determine whether the tumor is ben
     7. Bare Nuclei 1 - 10 
     8. Soft Chromatin 1 - 10 
     9. Normal Nucleoli 1 - 10 
-    10.  Mitoses 1-10 Grade 
-    11.  (2 for benign, 4 for malignant)
+    10.Mitoses 1-10 Grade 
+    11.(2 for benign, 4 for malignant)
 
 
 #Application
